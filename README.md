@@ -1,5 +1,5 @@
 # NumericalMethods
-A place to store my matlab algorithm files created in MECH 105 - Numerical Methods spring 2018
+A place to store my matlab algorithm files created in MECH 105 - Numerical Methods Spring 2018
 
 ## Algorithms
 * `Simpsons Rule` (Integration Aproximation)
